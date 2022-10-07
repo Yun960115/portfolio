@@ -47,14 +47,14 @@
 								Java, JSP, Spring4, MyBatis
 								<li><strong>Front-End</strong></li>
 								HTML5, CSS3, JavaScript, JQuery, Ajax, JSON
-								<li><strong>DB</strong></li>
+								<li><strong>DBMS</strong></li>
 								Oracle, MySQL
 								<li><strong>Deployment</strong></li>
 								AWS RDBS
 								<li><strong>Server</strong></li>
 								Apache Tomcat 8.5
 								<li><strong>Tools</strong></li>
-								Eclipse(STS), MySQL Workbench
+								Eclipse(STS), MySQL Workbench, Oracle SQL Developer
 								<li><strong>Collaboration</strong></li>
 								GitHub, Whimsical, Google Sheet, Google Docs
 
